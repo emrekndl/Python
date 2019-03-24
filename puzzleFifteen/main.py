@@ -41,7 +41,6 @@ def on_release(key):
             sleep(1)
 
 
-
     return b.refresh()
 
 
