@@ -4,7 +4,6 @@ import veritabani
 from PyQt5 import QtWidgets
 
 
-
 class Pencere1(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()

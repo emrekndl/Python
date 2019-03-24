@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import os
 import sqlite3
 
+
 """
 #düğün yeri
 ---adı--- adresi---kapasite---ortamları---hizmetleri---konum----konaklama---hakkında---dahafazla---inceleme---yorumlar--resimler-harita

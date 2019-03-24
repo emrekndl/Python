@@ -84,7 +84,6 @@ class Menu(QMainWindow):
             qApp.quit()
 
 
-
 app = QApplication(sys.argv)
 menu = Menu()
 
